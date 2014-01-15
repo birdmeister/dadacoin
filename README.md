@@ -1,4 +1,4 @@
-Litecoin integration/staging tree
+Dadacoin integration/staging tree
 ================================
 
 http://www.litecoin.org
